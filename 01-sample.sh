@@ -1,2 +1,5 @@
+#!/usr/bin/env bash
 
-Hello world!!!!
+#printing text
+
+echo "Hello world!!!!"
