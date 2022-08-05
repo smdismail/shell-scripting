@@ -2,4 +2,4 @@
 
 #printing text
 
-echo "Hello world!!!!"
+echo Hello world!!!!
