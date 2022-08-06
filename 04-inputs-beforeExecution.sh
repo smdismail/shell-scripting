@@ -6,7 +6,7 @@
 
 echo Script name = $0
 echo First Argument = $1
-echo Seconf Argument = $2
+echo Second Argument = $2
 
 echo All Argument = $*
 
